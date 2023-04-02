@@ -1,6 +1,6 @@
 <h3 align="center">Hi i'm Facundo Alvarez, a student and passionate frontend developer 🚀</h3>
 
-- 🔭 I’m currently working on [RockPaperScissors---REACT](https://github.com/FacuAlvarez00/RockPaperScissors---REACT)
+- 🔭 I’m currently working on [portfolio-react](https://github.com/FacuAlvarez00/portfolio-react)
 
 - 🌱 I’m currently learning **Tailwind and NextJS**
 
