@@ -1,10 +1,10 @@
 <h3 align="center">Hi i'm Facundo Alvarez, a student and passionate frontend developer 🚀</h3>
 
-- 🔭 I’m currently working on [portfolio-react](https://github.com/FacuAlvarez00/portfolio-react)
+- 🔭 I’m currently working on [todolist-nextjs]([https://github.com/FacuAlvarez00/portfolio-react](https://github.com/FacuAlvarez00/todolist-nextjs))
 
-- 🌱 I’m currently learning **Tailwind and NextJS**
+- 🌱 I’m currently learning **NextJS and Redux**
 
-- 📫 How to reach me **facundoalvarezzh@gmail.com**
+- 📫 You can message at **facundoalvarezzh@gmail.com**
 
 - 👯 I’m looking to collaborate on Open Source Codes
 
