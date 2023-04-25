@@ -1,13 +1,14 @@
 <h3 align="center">Hi i'm Facundo Alvarez, a student and passionate frontend developer 🚀</h3>
 
 - 🔭 I’m currently working on [todolist-nextjs](https://github.com/FacuAlvarez00/todolist-nextjs)
-- 
 
-- 🌱 I’m currently learning **NextJS and Redux**
+- 🌱 Hard learning **NextJS and Redux**
+
+- 👯 I’m looking to collaborate on Open Source Codes
 
 - 📫 You can message at **facundoalvarezzh@gmail.com**
 
-- 👯 I’m looking to collaborate on Open Source Codes
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
